@@ -23,9 +23,10 @@ p2 2.2
 
 
 p2.3
-
-p3.1
 <img width="746" alt="image" src="https://github.com/user-attachments/assets/b40e1a11-bffb-47e2-83b9-1a24e880fb26" />
+p3.1
+
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/7cd149c9-5b07-4f7e-9f14-97a2c10a7696" />
 
 
 
